@@ -1,0 +1,9 @@
+*.[ao]
+moc_*.h
+moc_*.cpp
+qrc_*.cpp
+Makefile*
+.qmake.stash
+
+Dictation
+Dictation.exe

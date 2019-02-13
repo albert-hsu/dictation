@@ -1,0 +1,21 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file alias="dialog.png">images/dialog.png</file>
+    <file alias="repeat.png">images/repeat.png</file>
+    <file alias="stop-repeat.png">images/stop-repeat.png</file>
+    <file alias="play.png">images/play.png</file>
+    <file alias="pause.png">images/pause.png</file>
+    <file alias="previous.png">images/previous.png</file>
+    <file alias="next.png">images/next.png</file>
+    <file alias="folder.png">images/folder.png</file>
+    <file alias="export.png">images/export.png</file>
+    <file alias="speaker-x.png">images/speaker-x.png</file>
+    <file alias="speaker-0.png">images/speaker-0.png</file>
+    <file alias="speaker-1.png">images/speaker-1.png</file>
+    <file alias="speaker-2.png">images/speaker-2.png</file>
+    <file alias="speaker-3.png">images/speaker-3.png</file>
+
+    <file>fonts/open-sans/OpenSans-Semibold.ttf</file>
+    <file>fonts/Merriweather/Merriweather-Italic.ttf</file>
+</qresource>
+</RCC>
